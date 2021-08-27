@@ -1,13 +1,10 @@
 #include<bits/stdc++.h>
-#include<conio.h>
 using namespace std;
 
 int main()
 {
     int st;
     static int jam = 21;
-   
-    clrscr();
    
     cout<<setw(10)<<"\n\t\t\tNUMBER OF MATCHSTICKS ARE 21";
     cout<<setw(5)<<"\n\t Whosever is forced to pick the last stick will loose.....";
